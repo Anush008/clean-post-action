@@ -1,6 +1,6 @@
 {
-  "name": "clean-after-action",
-  "version": "3.0.0",
+  "name": "clean-post-action",
+  "version": "4.0.0",
   "main": "index.js",
   "author": "Michael Medin <michael@medin.name>",
   "contributors": [
@@ -15,6 +15,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tiacsys/clean-after-action"
+    "url": "https://github.com/Anush008/clean-post-action"
   }
 }
