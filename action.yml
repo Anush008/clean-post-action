@@ -1,4 +1,4 @@
-name: 'Cleanup workspace on self-hosted runner'
+name: 'Cleanup workspace on self-hosted runner post running'
 description: 'Cleans up the self-hosted runner workspace after build finishes'
 author: 'mickem+FraBle+danielefranceschi+tiacsys'
 branding:
